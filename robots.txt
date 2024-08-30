@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://kokopadd.github.io/sitemap/sitemap.txt
